@@ -1,2 +1,2 @@
 # AnotherGo
-Just trying to follow along with a tutorial I watched on Udemy :D
+Just trying to follow along with a tutorial I bought on Udemy :D
